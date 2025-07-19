@@ -19,7 +19,7 @@ A simple and minimalistic web-based Text-to-Speech converter built using plain H
 
 ## 📸 Preview
 
-![TTS App Screenshot]("C:\Users\spriy\OneDrive\Pictures\Saved Pictures\Screenshots\BAHUBHASI.png") <!-- Replace this with actual screenshot path if available -->
+![TTS App Screenshot]("BAHUBHASI.png") <!-- Replace this with actual screenshot path if available -->
 
 ## 🚀 Getting Started
 
