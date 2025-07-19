@@ -19,7 +19,8 @@ A simple and minimalistic web-based Text-to-Speech converter built using plain H
 
 ## 📸 Preview
 
-![TTS App Screenshot]("BAHUBHASI.png") <!-- Replace this with actual screenshot path if available -->
+<img width="974" height="829" alt="BAHUBHASI" src="https://github.com/user-attachments/assets/0209527c-4034-4488-9d76-671ae31aff0f" />
+
 
 ## 🚀 Getting Started
 
